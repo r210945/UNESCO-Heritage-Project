@@ -1,20 +1,31 @@
 # Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites (2019)
 
 ## 📖 Project Overview
-This project analyzes UNESCO World Heritage Sites (2019) using Tableau Public for data visualization and Flask for web integration. It provides interactive dashboards to explore heritage sites by country, region, category, and inscription year.
+
+This project presents an interactive analysis of UNESCO World Heritage Sites (2019) using Tableau. The project explores the global distribution of heritage sites by country, category, and year of inscription through interactive dashboards and visual storytelling. It helps users understand heritage trends and supports data-driven insights using Tableau.
+
+---
+
+## 👩‍🎓 Student Details
+
+**Name:** Dhara Mahitha  
+**Roll Number:** R210945  
+**Institution:** Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley
 
 ---
 
 ## 🎯 Objectives
-- Analyze the distribution of UNESCO World Heritage Sites.
-- Identify heritage sites that are in danger.
-- Study inscription trends over the years.
-- Develop an interactive Tableau dashboard.
-- Integrate the dashboard into a Flask web application.
+
+- Analyze UNESCO World Heritage Sites worldwide.
+- Visualize heritage sites by country and category.
+- Study inscription trends over time.
+- Build interactive Tableau dashboards.
+- Present findings using data visualization techniques.
 
 ---
 
 ## 🛠 Technologies Used
+
 - Tableau Public
 - Python
 - Flask
@@ -25,18 +36,112 @@ This project analyzes UNESCO World Heritage Sites (2019) using Tableau Public fo
 ---
 
 ## 📂 Dataset
-Dataset: UNESCO World Heritage Sites (2019)
 
-Source:
-https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites
+**Dataset:** UNESCO World Heritage Sites (2019)
+
+**Source:** Kaggle
+
+**Format:** CSV
 
 ---
 
 ## 📊 Visualizations
-- Treemap – Heritage Sites by Country
-- Pie Chart – Sites at Risk
-- Line Chart – Regional Inscription Trends
+
+- Treemap
+- Pie Chart
+- Line Chart
 - Interactive Dashboard
+- Tableau Story
+
+---
+
+## 📁 Project Structure
+
+```
+UNESCO-Heritage-Project/
+│── README.md
+│── LICENSE
+│── requirements.txt
+│── Project_Report.pdf
+│── UNESCO_Heritage_Project.zip
+│── data/
+│── documentation/
+│── screenshots/
+```
+
+---
+
+## 🚀 Features
+
+- Country-wise Heritage Site Analysis
+- Heritage Category Distribution
+- Year-wise Heritage Trend Analysis
+- Interactive Filters
+- Dashboard Storytelling
+- Easy-to-understand Visualizations
+
+---
+
+## ▶️ How to Use
+
+1. Download or clone this repository.
+2. Extract the project ZIP file.
+3. Open Tableau Public/Desktop.
+4. Load the dataset from the **data** folder.
+5. Open the Tableau workbook.
+6. Explore the dashboards and stories.
+
+---
+
+## 📄 Documentation
+
+The complete project documentation is available in:
+
+**Project_Report.pdf**
+
+---
+
+## 📷 Screenshots
+
+Dashboard screenshots are available inside the **screenshots** folder.
+
+---
+
+## 🔮 Future Enhancements
+
+- Live Data Integration
+- GIS Map Visualization
+- Predictive Analytics using Machine Learning
+- Real-time Dashboard Updates
+- Mobile-friendly Dashboard
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgements
+
+- UNESCO World Heritage Centre
+- Kaggle
+- Tableau Public
+- GitHub
+
+---
+
+## 👤 Author
+
+**Dhara Mahitha**  
+B.Tech – Computer Science & Engineering  
+RGUKT RK Valley  
+Roll No: R210945
+
+---
+
+⭐ If you found this project useful, please consider giving it a star on GitHub!- Interactive Dashboard
 - Tableau Story
 
 ---
