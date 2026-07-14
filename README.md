@@ -1,17 +1,189 @@
-# Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites (2019)
+# 🌍 Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites (2019)
+
+![GitHub](https://img.shields.io/badge/GitHub-Public-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Project Overview
 
-This project presents an interactive analysis of UNESCO World Heritage Sites (2019) using Tableau. The project explores the global distribution of heritage sites by country, category, and year of inscription through interactive dashboards and visual storytelling. It helps users understand heritage trends and supports data-driven insights using Tableau.
+This project presents an interactive analysis of UNESCO World Heritage Sites (2019) using Tableau and Python. The objective is to analyze heritage sites across the world through interactive visualizations, dashboards, and stories. The project provides insights into country-wise distribution, heritage categories, and inscription trends.
+
+---
+
+## 🎯 Objectives
+
+- Analyze UNESCO World Heritage Sites worldwide.
+- Study the distribution of heritage sites by country.
+- Analyze Natural, Cultural, and Mixed heritage categories.
+- Visualize inscription trends over the years.
+- Create an interactive Tableau dashboard.
+- Present meaningful insights using data visualization.
+
+---
+
+## 🛠 Technologies Used
+
+- Tableau Public
+- Python
+- Flask
+- HTML5
+- CSS3
+- GitHub
+- Kaggle Dataset
+
+---
+
+## 📂 Dataset
+
+**Dataset:** UNESCO World Heritage Sites (2019)
+
+**Source:** Kaggle
+
+The dataset contains information such as:
+
+- Site Name
+- Country
+- Region
+- Category
+- Year of Inscription
+- Latitude & Longitude
+
+---
+
+## 📊 Visualizations
+
+The project includes:
+
+- 🌳 Treemap
+- 🥧 Pie Chart
+- 📈 Line Chart
+- 📊 Interactive Dashboard
+- 📚 Tableau Story
+
+---
+
+## 📷 Project Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Treemap
+
+![Treemap](treemap.png)
+
+### Pie Chart
+
+![Pie Chart](piechart.png)
+
+### Line Chart
+
+![Line Chart](linechart.png)
+
+### Tableau Story
+
+![Story](story.png)
+
+---
+
+## 📁 Project Structure
+
+```
+UNESCO-Heritage-Project/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── UNESCO_Heritage_Project_Report.pdf
+├── dashboard.png
+├── treemap.png
+├── piechart.png
+├── linechart.png
+├── story.png
+├── data/
+├── documentation/
+├── screenshots/
+├── tableau/
+├── templates/
+├── static/
+└── app.py
+```
+
+---
+
+## 🚀 Features
+
+- Interactive Tableau Dashboard
+- Country-wise Heritage Analysis
+- Heritage Category Distribution
+- Year-wise Trend Analysis
+- Story Presentation
+- Easy-to-use Interface
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository
+
+```
+git clone https://github.com/r210945/UNESCO-Heritage-Project.git
+```
+
+2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Flask application
+
+```
+python app.py
+```
+
+4. Open your browser
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+## 📈 Future Enhancements
+
+- Live Map Visualization
+- Filter by Region
+- Search Functionality
+- Predictive Analytics using Machine Learning
+- Responsive Web Interface
 
 ---
 
 ## 👩‍🎓 Student Details
 
-**Name:** Dhara Mahitha  
-**Roll Number:** R210945  
-**Institution:** Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley
+**Name:** Dhara Mahitha
 
+**Roll Number:** R210945
+
+**College:** RGUKT RK Valley
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Acknowledgements
+
+- UNESCO World Heritage Centre
+- Kaggle
+- Tableau Public
+- GitHub
+- RGUKT RK Valley
 ---
 
 ## 🎯 Objectives
