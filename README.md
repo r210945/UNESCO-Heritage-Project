@@ -51,3 +51,6 @@ This project analyzes UNESCO World Heritage Sites using Tableau dashboards and F
 ---
 
 ## Project Structure
+## Project Report
+
+- UNESCO_Heritage_Project_Report_Dhara_Mahitha.pdf
